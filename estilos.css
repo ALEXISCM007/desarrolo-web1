@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    background-color:#FF8D4B
+
+}
+h1 {
+    font-size: 45px;
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+    border: blue;
+}
+h2 {
+    font-size: 30px;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer--index {
+    background-color: beige;
+    color: blueviolet;
+    font-size: 25px;
+}
+#influencer {
+    color: honeydew;
+    font-size: 13px;
+}
+#quienesSomos {
+color: navy;
+font-size: 35px;
+
+}
+.a1{
+    background-color: salmon
+
+    
+}
+.a2{
+    background-color: aliceblue;
+    font-size: 25px;
+    width: 25%
+}
+
+.a3{
+    background-color: seagreen;
+    font-size: 25px;
+    width: 25%
+
+}
+.a4{
+    background-color: aliceblue
+    font-size: 25px;
+    width: 25%
+
+}
+.a5{
+    background-color: seagreen;
+    font-size: 25px;
+    width: 25%
+}
+.a6{
+    background-color: aliceblue
+    font-size: 25px;
+    width: 25%
+}
+#container{
+    font-size: 25px;
+    width: 25%;
+    background: beige;
+}
+#desayuno{
+    color: black;
+    font-size: 25px;
+    font-family: Lobster;
+}
+#comidasycenas{
+    color: black;
+    font-size: 25px;
+    font-family: lobster;
+
+}
+#restaurante{
+    color: black;
+    font-size: 25px;
+    font-family: lobster;
+
+}
+#bebidas{
+    color: black;
+    font-size: 25px;
+    font-family: lobster;
+
+}
+.cd {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    color: beige;
+}
