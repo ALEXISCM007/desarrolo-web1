@@ -1,98 +1,54 @@
 *{
     margin: 0;
-    padding: 0;
-    box-sizing: 0;
-    background-color:#FF8D4B
-
+    box-sizing: border-box;
 }
-h1 {
-    font-size: 45px;
-    color:black;
-    font-family: 'Courier New', Courier, monospace;
-    border: blue;
-}
-h2 {
-    font-size: 30px;
-    color: blue;
-    font-family: Arial, Helvetica, sans-serif;
-}
-.footer--index {
-    background-color: beige;
-    color: blueviolet;
-    font-size: 25px;
-}
-#influencer {
-    color: honeydew;
-    font-size: 13px;
-}
-#quienesSomos {
-color: navy;
-font-size: 35px;
-
-}
-.a1{
-    background-color: salmon
-
+:root{
+    --color-1:#ff3535;
+    --color-2:#ffcaca;
+    --color-header:#505050;
+    --color-fondo:#000000;
+    --color-texto-1:#ffffff;
+    --color-texto-2:#ffd000;
+    --color-texto-2:#ff3535;
     
 }
-.a2{
-    background-color: aliceblue;
-    font-size: 25px;
-    width: 25%
+body{
+    font-family: 'Titillium Web', sans-serif;
 }
-
-.a3{
-    background-color: seagreen;
-    font-size: 25px;
-    width: 25%
-
+.main{
+    width: 100%;
 }
-.a4{
-    background-color: aliceblue
-    font-size: 25px;
-    width: 25%
-
+.container-section-1{
+  background-image:url("../imagenes/banner.png") ;
+  height: calc(100%) right; 
 }
-.a5{
-    background-color: seagreen;
-    font-size: 25px;
-    width: 25%
+.header.icon{
+    display: block;
+font-size: small;
+    width: 1px;
+    height: 1px;
 }
-.a6{
-    background-color: aliceblue
-    font-size: 25px;
-    width: 25%
+@media only screen {
+    
 }
-#container{
-    font-size: 25px;
-    width: 25%;
-    background: beige;
+.main-recomendaciones{
+    background-image: url("./imagenes/Chilaquiles.jpg");
 }
-#desayuno{
-    color: black;
-    font-size: 25px;
-    font-family: Lobster;
+.desayuno-1{
+    justify-items: center;
+    width: 50px;
 }
-#comidasycenas{
-    color: black;
-    font-size: 25px;
-    font-family: lobster;
-
+.desayuno-2{
+    justify-items: center;
+    width: 50px;
 }
-#restaurante{
-    color: black;
-    font-size: 25px;
-    font-family: lobster;
-
+.bebidas-1{
+    justify-items: center;
+    width: 70px;
+    padding: 50px;
 }
-#bebidas{
-    color: black;
-    font-size: 25px;
-    font-family: lobster;
-
-}
-.cd {
-    font-size: 25px;
-    font-family: 'Courier New', Courier, monospace;
-    color: beige;
+.carousel-item{
+    padding: auto;
+    white-space: ;
+r
 }
